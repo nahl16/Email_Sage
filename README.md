@@ -46,5 +46,10 @@ To use different features of Email Sage, refer to the following commands:
 -	**For a full list of options, run:**
   `python email_sage.py -h`
 
+## Graphic Interface
+To use graphic interface, refer to the following commands:
+`python email_sage.py -g`
+
+
 --------------
 --------------
