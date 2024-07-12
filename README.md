@@ -50,6 +50,7 @@ To use different features of Email Sage, refer to the following commands:
 To use graphic interface, refer to the following commands:
 `python email_sage.py -g`
 
+<img src="GUI_EmailSage.png" width="350" height="200">
 
 --------------
 --------------
