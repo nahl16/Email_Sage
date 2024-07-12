@@ -1,0 +1,7 @@
+fpdf
+PyQt5
+fake-useragent
+email-validator
+beautifulsoup4
+kickbox
+requests
