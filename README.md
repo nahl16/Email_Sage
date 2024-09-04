@@ -21,7 +21,7 @@ Make sure you have Python 3.x installed on your system.
 `sudo apt install python3`
 
 ### Step 2: Install Dependencies
-1.	Clone this repository:
+1.	Clone this repository: 
   - `git clone https://github.com/nomanulaziz/email_sage.git`
   - `cd email_sage`
 2.	Install the required dependencies:
